@@ -1041,6 +1041,11 @@
         <desc>Hercules saves a beautiful maiden from the hands of an evil creature and she takes him to her home, Atlantis.</desc>
         <icon src="https://images.pluto.tv/series/68c2e82b06254fd0f6291d27/tile_1786579201450.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5dbfeb961b411c00090b52b3" start="20261017140526 +0000" stop="20261017155726 +0000">
+        <title>Elektra</title>
+        <desc>Notorious assassin Elektra unwittingly takes part in her former teacher's test when she protects a former target and his daughter from "The Hand," a sinister crime syndicate of martial arts fighters.</desc>
+        <icon src="https://images.pluto.tv/series/63736d0dfb1ff5001366fe88/tile_1778252055444.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5dbfedccc563080009b60f4a" start="20261017092735 +0000" stop="20261017110046 +0000">
         <title>The Bachelor Next Door</title>
         <desc>A newly engaged couple becomes intrigued by the young stranger who moves in next door. He's handsome, friendly and very helpful, but he's no stranger.</desc>
@@ -14984,8 +14989,8 @@ trying to get his attention.</desc>
     </programme>
     <programme channel="65b14aae0cb1a100087a216e" start="20261017200000 +0000" stop="20261017202200 +0000">
         <title>DAZN Ringside</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/65b14aae0cb1a100087a216e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>DAZN Ringside brings you the very best of boxing – the biggest fights of the year including selected live undercards, plus original feature-length documentaries, special short films and DAZN Boxing Show, featuring the biggest names in boxing.</desc>
+        <icon src="https://images.pluto.tv/series/65d327306ef49d0013947907/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="65b14aae0cb1a100087a216e" start="20261017202200 +0000" stop="20261017204000 +0000">
         <title>Boxing</title>
@@ -21032,6 +21037,11 @@ spirits of the long dead.</desc>
         <desc>Six players do battle in Atlantic City for the more than $800,000 first-place prize in the WPT Borgata Poker Open.</desc>
         <icon src="https://images.pluto.tv/series/5b1904f1c65a06426375ff92/tile_1787320082385.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5ad8d796e738977e2c31094a" start="20261018034202 +0000" stop="20261018061902 +0000">
+        <title>World Poker Tour: WPT Borgata Poker Open</title>
+        <desc>Six players do battle in Atlantic City for the more than $800,000 first-place prize in the WPT Borgata Poker Open.</desc>
+        <icon src="https://images.pluto.tv/series/5b1904f1c65a06426375ff92/tile_1787320082385.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="60817936fd2d70000763d2b2" start="20261017220000 +0000" stop="20261017225500 +0000">
         <title>Wild At Heart: Episode 6</title>
         <desc>The Trevanions are delighted when Fatani asks Danny to take an aggressive hippo off his hands. As they prepare for its arrival Sarah gets a bit of a shock when her mother Caroline beats the hippo to the post.</desc>
@@ -21151,6 +21161,11 @@ spirits of the long dead.</desc>
         <title>The Creator Clash</title>
         <desc>Jaack Maate and Joe Perry face Aaron Hunt and Tony Knowles in the Best of three frames.</desc>
         <icon src="https://images.pluto.tv/series/6a490409920a04f6d75f9a9b/tile_1785730128239.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="655b7cbb2c46f300086f0afa" start="20261018035000 +0000" stop="20261018050000 +0000">
+        <title>Tony The Tornado Drago</title>
+        <desc>Live Snooker 900, the new fast and exciting version of the game featuring many of the game’s legendary players in weekly competitions.</desc>
+        <icon src="https://images.pluto.tv/series/6929c9af0c94b060784f0fe3/tile_1792232073790.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="65a6a7a00c7ff50008cba07b" start="20261017214125 +0000" stop="20261017223332 +0000">
         <title>True Justice</title>
